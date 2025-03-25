@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "McEuaG3YO6M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\430344\\Desktop\\prog1.5\\AULA03\\AULA03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\430344\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
