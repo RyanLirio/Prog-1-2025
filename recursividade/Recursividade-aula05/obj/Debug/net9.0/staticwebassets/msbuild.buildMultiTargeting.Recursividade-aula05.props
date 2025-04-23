@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Recursividade-aula05.props" />
+</Project>
