@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|c:\\users\\430344\\desktop\\2025-prog-1\\aula03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,18 +14,31 @@
     {
       "AbsoluteMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|c:\\users\\430344\\desktop\\2025-prog-1\\aula03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|c:\\users\\430344\\desktop\\2025-prog-1\\aula03\\views\\jogovelha\\jogovelhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|solutionrelative:views\\jogovelha\\jogovelhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|c:\\users\\430344\\desktop\\2025-prog-1\\aula03\\views\\jogovelha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|solutionrelative:views\\jogovelha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> 9da06c1d685b590a61980fe2e3936299cc5880a5
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|c:\\users\\430344\\desktop\\2025-prog-1\\aula03\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|c:\\users\\430344\\desktop\\2025-prog-1\\aula03\\views\\jogovelha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|solutionrelative:views\\jogovelha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|c:\\users\\430344\\desktop\\2025-prog-1\\aula03\\views\\jogovelha\\jogovelhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|solutionrelative:views\\jogovelha\\jogovelhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|c:\\users\\430344\\desktop\\2025-prog-1\\aula03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B26788-A906-4C89-BEEB-5B2FA73C18C1}|AULA03.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 9da06c1d685b590a61980fe2e3936299cc5880a5
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +48,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +64,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Views\\_ViewImports.cshtml",
@@ -60,10 +75,34 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-22T23:28:18.593Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:32:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T00:32:25.195Z"
+>>>>>>> 9da06c1d685b590a61980fe2e3936299cc5880a5
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -123,6 +162,27 @@
               "RelativeToolTip": "Views\\JogoVelha\\JogoVelhaController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAswBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+=======
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Views\\JogoVelha\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\JogoVelha\\Index.cshtml",
+              "ToolTip": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Views\\JogoVelha\\Index.cshtml",
+              "RelativeToolTip": "Views\\JogoVelha\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T23:31:05.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogoVelhaController.cs",
+              "DocumentMoniker": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Views\\JogoVelha\\JogoVelhaController.cs",
+              "RelativeDocumentMoniker": "Views\\JogoVelha\\JogoVelhaController.cs",
+              "ToolTip": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA03\\Views\\JogoVelha\\JogoVelhaController.cs",
+              "RelativeToolTip": "Views\\JogoVelha\\JogoVelhaController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+>>>>>>> 9da06c1d685b590a61980fe2e3936299cc5880a5
               "WhenOpened": "2025-03-31T23:01:32.265Z",
               "EditorCaption": ""
             }

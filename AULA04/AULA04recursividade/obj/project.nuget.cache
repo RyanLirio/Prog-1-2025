@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "xBtXEO/gjf4=",
   "success": true,
   "projectFilePath": "C:\\Users\\430344\\Desktop\\2025-prog-1\\AULA04\\AULA04recursividade\\AULA04recursividade.csproj",
+=======
+  "dgSpecHash": "I/Ks+7Jc9JU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\430344\\Documents\\teste\\AULA04\\AULA04recursividade\\AULA04recursividade.csproj",
+>>>>>>> 9da06c1d685b590a61980fe2e3936299cc5880a5
   "expectedPackageFiles": [
     "C:\\Users\\430344\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
   ],
